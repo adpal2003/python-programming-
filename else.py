@@ -1,9 +1,9 @@
 n = input("enter a value:")
 
-if ( n ==a or n==e or n==i):
-    print( n,"vowel")
+if ( n =='a' or n=='e' or n=='i' or n=='o' or n=='u'):
+    print( n,"is vowel")
 else:
-    print("consants")
+    print(n," is Consonant")
 
 
 
